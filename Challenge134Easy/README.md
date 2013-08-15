@@ -1,5 +1,5 @@
 [1]: http://www.reddit.com/r/dailyprogrammer/comments/1jtryq/080613_challenge_134_easy_ndivisible_digits/
-###[Challenge 134 [Easy] N-Digit Divisible][1]
+###[Challenge 134 [Easy] N-Divisible Digits][1]
 
 *Last Update: 8/15/2013*
 
