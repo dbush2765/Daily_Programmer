@@ -1,5 +1,6 @@
 [1]: http://www.reddit.com/r/dailyprogrammer
 [2]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge134Easy
+[3]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge132Easy
 
 *Last Update: 8/15/2013*
 
@@ -13,3 +14,4 @@ I'll be going through the challenges at the [Daily Programmer][1] subreddit. As 
 #Completed Challenges
 
 -	[Challenge 134 [Easy] N-Digit Divisible:][2] Find the largest number with N digits that is divisible by M.
+-	[Challenge 132 [Easy] Greatest Common Divisor:][3] Find the greatest common divisor from any two given numbers.
