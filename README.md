@@ -3,7 +3,7 @@
 [3]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge132Easy
 [4] https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge127Easy
 
-*Last Update: 8/15/2013*
+*Last Update: 8/19/2013*
 
 *Author: Dustyn Bush*
 
