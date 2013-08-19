@@ -1,7 +1,7 @@
 [1]: http://www.reddit.com/r/dailyprogrammer
 [2]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge134Easy
 [3]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge132Easy
-[4] https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge127Easy
+[4]: https://github.com/dbush2765/Daily_Programmer/tree/master/Challenge127Easy
 
 *Last Update: 8/19/2013*
 
